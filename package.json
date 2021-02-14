@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/Taljjaa/PlayItForward-server#readme",
   "dependencies": {
-    "apollo-server": "^2.13.0",
+    "apollo-server": "^2.14.2",
     "aws-sdk": "^2.673.0",
     "bcrypt": "^4.0.1",
     "graphql": "^15.0.0",
